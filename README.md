@@ -8,9 +8,9 @@ This is my first project created in Unity, using [Brackey's Beginner Unity Tutor
 
 To install this project, you will need the following:
 
-* Mac OS
-
 * [A copy of the project](https://github.com/Dergo32/Infinite-Cube-Runner/releases/tag/v1.0)
+
+* Either Mac OS X (or later) or Windows 7 (or later)
 
 ### Installing
 
