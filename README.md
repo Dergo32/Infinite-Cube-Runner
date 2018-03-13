@@ -10,11 +10,11 @@ To install this project, you will need the following:
 
 * Mac OS
 
-* [A copy of the project](https://github.com/Dergo32/Infinite-Cube-Runner/raw/master/Infinicube_Build_Final.zip)
+* [A copy of the project](https://github.com/Dergo32/Infinite-Cube-Runner/releases/tag/v1.0)
 
 ### Installing
 
-* Download the project from [here](https://github.com/Dergo32/Infinite-Cube-Runner/raw/master/Infinicube_Build_Final.zip)
+* Download the project from [here](https://github.com/Dergo32/Infinite-Cube-Runner/releases/tag/v1.0)
 
 * Extract the file to your desktop
 
