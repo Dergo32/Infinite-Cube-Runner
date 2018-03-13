@@ -1,4 +1,4 @@
-# Project Title
+# Infinite Cube Runner
 
 This is my first project created in Unity, using [Brackey's Beginner Unity Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) and [this endless runner tutorial](https://www.youtube.com/watch?v=HIsEqKPoJXM).
 
